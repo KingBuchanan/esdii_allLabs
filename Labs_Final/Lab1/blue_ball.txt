@@ -1,0 +1,7 @@
+comPort                        = 4
+blueMin                        = 7
+redMin                         = 0
+greenMin                       = 0
+blueMax                        = 255
+redMax                         = 88
+greenMax                       = 255

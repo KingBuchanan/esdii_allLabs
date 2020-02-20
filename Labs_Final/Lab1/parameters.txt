@@ -1,0 +1,7 @@
+ comPort                   = 4
+  redMin                     = 255
+  redMax                    = 0
+  greenMin                  = 0
+  greenMax                  = 255
+  blueMin                   = 0
+  blueMax                   = 255

@@ -1,0 +1,30 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Feb 19 19:35:33 2020
+# Process ID: 5336
+# Current directory: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21076 C:\Users\hsb2790\Downloads\Lab_3\lab_3\project\Lab_3.xpr
+# Log file: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project/vivado.log
+# Journal file: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hsb2790/Downloads/Lab_3/lab_3/project/Lab_3.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/hsb2790/Downloads/Lab_3/lab_3/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:06 . Memory (MB): peak = 861.840 ; gain = 186.023
+update_compile_order -fileset sources_1
+open_bd_design {C:/Users/hsb2790/Downloads/Lab_3/lab_3/src/design_1.bd}
+Adding component instance block -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Adding component instance block -- rit.edu:user:lab:1.0 - lab_0
+Adding component instance block -- xilinx.com:ip:util_vector_logic:2.0 - util_vector_logic_0
+Adding component instance block -- xilinx.com:ip:axi_interconnect:2.1 - ps7_0_axi_periph
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_ps7_0_50M
+Adding component instance block -- rit.edu:user:lab3_axi:1.0 - lab3_axi_0
+Successfully read diagram <design_1> from BD file <C:/Users/hsb2790/Downloads/Lab_3/lab_3/src/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:10 ; elapsed = 00:00:08 . Memory (MB): peak = 1004.957 ; gain = 44.469

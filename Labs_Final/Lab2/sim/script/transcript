@@ -1,0 +1,374 @@
+# //  ModelSim SE-64 2019.2 Apr 17 2019
+# //
+# //  Copyright 1991-2019 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 20:40:17 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# ** Error: ../../src/lab.vhd(30): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(33): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(37): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(40): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Note: ../../src/lab.vhd(50): VHDL Compiler exiting
+# End time: 20:40:17 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: c:/software/Modelsim/win64/vcom failed.
+# Error in macro ./sim.do line 2
+# c:/software/Modelsim/win64/vcom failed.
+#     while executing
+# "vcom -93 -work work ../../src/lab.vhd"
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 20:41:05 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# ** Error: ../../src/lab.vhd(30): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(33): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(37): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: ../../src/lab.vhd(40): near "=": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Note: ../../src/lab.vhd(50): VHDL Compiler exiting
+# End time: 20:41:05 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: c:/software/Modelsim/win64/vcom failed.
+# Error in macro ./sim.do line 2
+# c:/software/Modelsim/win64/vcom failed.
+#     while executing
+# "vcom -93 -work work ../../src/lab.vhd"
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:17:54 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# End time: 21:17:54 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:17:54 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../src/lab_testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lab_testbench
+# -- Compiling architecture arch of lab_testbench
+# ** Warning: ../src/lab_testbench.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: ../src/lab_testbench.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Error (suppressible): ../src/lab_testbench.vhd(28): (vcom-1272) Length of expected is 21; length of actual is 22.
+# ** Note: ../src/lab_testbench.vhd(67): VHDL Compiler exiting
+# End time: 21:17:54 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# ** Error: c:/software/Modelsim/win64/vcom failed.
+# Error in macro ./sim.do line 3
+# c:/software/Modelsim/win64/vcom failed.
+#     while executing
+# "vcom -93 -work work ../src/lab_testbench.vhd"
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:18:23 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# End time: 21:18:23 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:18:23 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../src/lab_testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lab_testbench
+# -- Compiling architecture arch of lab_testbench
+# ** Warning: ../src/lab_testbench.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: ../src/lab_testbench.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# End time: 21:18:23 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vsim -voptargs="+acc" lab_testbench 
+# Start time: 21:18:23 on Feb 12,2020
+# ** Note: (vsim-3812) Design is being optimized...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lab_testbench(arch)#1
+# Loading ieee.numeric_std(body)
+# Loading work.lab(beh)#1
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: hsb2790  Hostname: ECTET-1360-12  ProcessID: 24104
+#           Attempting to use alternate WLF file "./wlftrm021a".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftrm021a
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt4
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+do sim.so
+# Cannot open macro file: sim.so
+do sim.so
+# Cannot open macro file: sim.so
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:20:36 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# End time: 21:20:36 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:20:36 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../src/lab_testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lab_testbench
+# -- Compiling architecture arch of lab_testbench
+# ** Warning: ../src/lab_testbench.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: ../src/lab_testbench.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# End time: 21:20:36 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# End time: 21:20:43 on Feb 12,2020, Elapsed time: 0:02:20
+# Errors: 2, Warnings: 2
+# vsim -voptargs="+acc" lab_testbench 
+# Start time: 21:20:43 on Feb 12,2020
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lab_testbench(arch)#1
+# Loading ieee.numeric_std(body)
+# Loading work.lab(beh)#1
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: hsb2790  Hostname: ECTET-1360-12  ProcessID: 24104
+#           Attempting to use alternate WLF file "./wlft1bvvbv".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft1bvvbv
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:21:37 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# End time: 21:21:37 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:21:37 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../src/lab_testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lab_testbench
+# -- Compiling architecture arch of lab_testbench
+# ** Warning: ../src/lab_testbench.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: ../src/lab_testbench.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# End time: 21:21:37 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# End time: 21:21:39 on Feb 12,2020, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 4
+# vsim -voptargs="+acc" lab_testbench 
+# Start time: 21:21:39 on Feb 12,2020
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lab_testbench(arch)#1
+# Loading ieee.numeric_std(body)
+# Loading work.lab(beh)#1
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: hsb2790  Hostname: ECTET-1360-12  ProcessID: 24104
+#           Attempting to use alternate WLF file "./wlftgnzj6g".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftgnzj6g
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Note: (vsim-8009) Loading existing optimized design _opt4
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+do sim.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:23:24 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../../src/lab.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity lab
+# -- Compiling architecture beh of lab
+# End time: 21:23:24 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim SE-64 vcom 2019.2 Compiler 2019.04 Apr 17 2019
+# Start time: 21:23:24 on Feb 12,2020
+# vcom -reportprogress 300 -93 -work work ../src/lab_testbench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity lab_testbench
+# -- Compiling architecture arch of lab_testbench
+# ** Warning: ../src/lab_testbench.vhd(24): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: ../src/lab_testbench.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# End time: 21:23:24 on Feb 12,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# End time: 21:23:26 on Feb 12,2020, Elapsed time: 0:01:47
+# Errors: 0, Warnings: 2
+# vsim -voptargs="+acc" lab_testbench 
+# Start time: 21:23:26 on Feb 12,2020
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.lab_testbench(arch)#1
+# Loading ieee.numeric_std(body)
+# Loading work.lab(beh)#1
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: hsb2790  Hostname: ECTET-1360-12  ProcessID: 24104
+#           Attempting to use alternate WLF file "./wlftqsmivf".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftqsmivf

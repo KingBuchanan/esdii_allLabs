@@ -1,0 +1,47 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Feb 19 17:50:43 2020
+# Process ID: 23064
+# Current directory: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18444 C:\Users\hsb2790\Downloads\Lab_3\lab_3\project\Lab_3.xpr
+# Log file: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project/vivado.log
+# Journal file: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/hsb2790/Downloads/Lab_3/lab_3/project/Lab_3.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/hsb2790/Downloads/Lab_3/lab_3/ip'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:07 . Memory (MB): peak = 1168.840 ; gain = 282.730
+update_compile_order -fileset sources_1
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 6
+[Wed Feb 19 18:11:19 2020] Launched impl_1...
+Run output will be captured here: C:/Users/hsb2790/Downloads/Lab_3/lab_3/project/Lab_3.runs/impl_1/runme.log
+open_run impl_1
+INFO: [Device 21-403] Loading part xc7z010clg400-1
+INFO: [Netlist 29-17] Analyzing 22 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2019.1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+INFO: [Timing 38-478] Restoring timing data from binary archive.
+INFO: [Timing 38-479] Binary timing data restore complete.
+INFO: [Project 1-856] Restoring constraints from binary archive.
+INFO: [Project 1-853] Binary constraint restore complete.
+Reading XDEF placement.
+Reading placer database...
+Reading XDEF routing.
+Read XDEF File: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.274 . Memory (MB): peak = 1811.246 ; gain = 0.000
+Restored from archive | CPU: 0.000000 secs | Memory: 0.000000 MB |
+Finished XDEF File Restore: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.274 . Memory (MB): peak = 1811.246 ; gain = 0.000
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 1811.246 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+open_run: Time (s): cpu = 00:00:23 ; elapsed = 00:00:19 . Memory (MB): peak = 1943.563 ; gain = 770.035
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Feb 19 18:47:52 2020...
